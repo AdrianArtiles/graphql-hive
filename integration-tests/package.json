@@ -37,6 +37,6 @@
     "@types/dockerode": "3.3.19",
     "@types/ioredis": "4.28.10",
     "tslib": "2.5.3",
-    "vitest": "0.31.1"
+    "vitest": "0.33.0"
   }
 }
